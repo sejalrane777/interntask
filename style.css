@@ -1,0 +1,64 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+.register{
+    background: rgb(185, 126, 36);
+    width: 400px;
+    margin: 10px 0px 0px 450px;
+    color: white;
+    font-size: 10px;
+    padding: 20px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+#register{
+    margin-left: 20px;
+
+}
+label{
+    color: white;
+    font-size: 18px;
+}
+#name{
+    width: 300px;
+    border: 2px solid burlywood;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+}
+#num{
+    width: 300px;
+    padding: 7px;
+    border: none;
+    border-radius: 3px;
+    
+}
+#sub{
+    transition: 0.5s;
+}
+#sub{
+    width: 130px;
+    padding: 7px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: 2px solid burlywood;
+    border-radius: 7px;
+    
+}
+#sub:hover{
+    background-color: black;
+    color: white;
+
+}
